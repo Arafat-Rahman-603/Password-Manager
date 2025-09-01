@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@media (max-width:621px) {
+   .input-con{
+    flex-wrap: wrap;
+   }
+}
